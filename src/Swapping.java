@@ -6,6 +6,5 @@ public class Swapping {
         b=c;
         System.out.println("the value of a is="+a);
         System.out.println("the value of b is="+b);
-       
     }
 }
